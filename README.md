@@ -1,7 +1,7 @@
 # Техническое задание на вёрстку
 
 * Название сайта: Switz
-* Домен: [Нёрдс](https://github.com/DamirKrg/Switz)
+* Домен: [SWITZ](https://github.com/DamirKrg/Switz)
 
 ## Общие технические требования
 
